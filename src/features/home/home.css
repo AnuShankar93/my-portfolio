@@ -8,13 +8,17 @@ html {
     margin: auto;
 }
 
-@media only screen and (max-width: 1024) {
+@media only screen and (max-width: 1024px) {
     .home {
         width: 90%;
     }
 }
-@media only screen and (max-width: 512) {
+
+@media only screen and (max-width: 512px) {
     .home {
         width: 100%;
     }
 }
+
+
+
