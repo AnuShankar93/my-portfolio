@@ -5,7 +5,7 @@ const Web = () =>{
     return (
         <div className="web">
             <div className="web-option">
-                <a href="#project">
+                <a href="#projects">
                 <i className="fi fi-rr-chart-histogram option-icon"/>Projects
                 </a>
             </div>
