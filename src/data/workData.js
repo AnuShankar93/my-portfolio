@@ -1,38 +1,30 @@
 export const WorkData = [
     {
-      company: "Company 1",
+      company: "QBurst",
       designation: "Software Engineer",
-      dateJoining: "02-02-2000",
+      dateJoining: "April 2018",
       dateEnd: "Present",
-      companyLogo:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png",
-      work: "Worken on Unit testing and creating the largest database efficiently. With over 100 people under me, made it work really well.",
+      companyLogo: require('./../assets/QBlogo.svg').default,
     },
     {
-      company: "Company 2",
+      company: "Triassic solutions private limited",
       designation: "Software Engineer",
-      dateJoining: "02-02-2000",
-      dateEnd: "Present",
-      companyLogo:
-        "https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png",
-      work: "Worken on Unit testing and creating the largest database efficiently. With over 100 people under me, made it work really well.",
+      dateJoining: "September 2017",
+      dateEnd: "April 2018",
+      companyLogo: require('./../assets/logo-tspl.jpeg').default,
     },
     {
-      company: "Company 2",
-      designation: "Software Engineer",
-      dateJoining: "02-02-2000",
-      dateEnd: "Present",
-      companyLogo:
-        "https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png",
-      work: "Worken on Unit testing and creating the largest database efficiently. With over 100 people under me, made it work really well.",
+      company: "Tinggal",
+      designation: "Web Developer",
+      dateJoining: "April 2017",
+      dateEnd: "September 2017",
+      companyLogo: require('./../assets/TinggalLogo.jpeg').default,
     },
     {
-      company: "Company 2",
-      designation: "Software Engineer",
-      dateJoining: "02-02-2000",
-      dateEnd: "Present",
-      companyLogo:
-        "https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png",
-      work: "Worken on Unit testing and creating the largest database efficiently. With over 100 people under me, made it work really well.",
+      company: "Limeseed Innovations",
+      designation: "Web Developer",
+      dateJoining: "July 2016",
+      dateEnd: "April 2017",
+      companyLogo: require('./../assets/Limeseed.png').default,
     },
   ];
